@@ -19,7 +19,7 @@ A simple portfolio website repo for testing. something you should know
 - Fixed menu not having consistent display on 1200px to 1440px wide screens.
 
 ### Other Changes :
-> Updated the react file structure of the project for ease of editing in the future:npm 
+> Updated the react file structure of the project for ease of editing in the future:
 - Added pages in the src/component for each section of the website.
 - Changed the name of twomirrorcolumn to ProcessColumn.
 - Cleaning up unnecessary imports in app.js and other components
@@ -37,4 +37,4 @@ A simple portfolio website repo for testing. something you should know
 ### License
 - I guess it's free, Just contact or fork me if you want to use it. And any attribution would be nice.
 
-"# rickzmusto.github.io"
+> rickzmusto.github.io
