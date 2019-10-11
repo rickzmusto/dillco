@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dillco/static/css/main.acc5e14b.chunk.css",
+    "main.css": "/dillco/static/css/main.1e9627b4.chunk.css",
     "main.js": "/dillco/static/js/main.bac81f24.chunk.js",
     "main.js.map": "/dillco/static/js/main.bac81f24.chunk.js.map",
     "runtime~main.js": "/dillco/static/js/runtime~main.96dc1d63.js",
@@ -8,9 +8,9 @@
     "static/js/2.36320c87.chunk.js": "/dillco/static/js/2.36320c87.chunk.js",
     "static/js/2.36320c87.chunk.js.map": "/dillco/static/js/2.36320c87.chunk.js.map",
     "index.html": "/dillco/index.html",
-    "precache-manifest.a29aa45c06eab45b94eee6cce74c358f.js": "/dillco/precache-manifest.a29aa45c06eab45b94eee6cce74c358f.js",
+    "precache-manifest.3ac784878f28039f05bc32852ec83550.js": "/dillco/precache-manifest.3ac784878f28039f05bc32852ec83550.js",
     "service-worker.js": "/dillco/service-worker.js",
-    "static/css/main.acc5e14b.chunk.css.map": "/dillco/static/css/main.acc5e14b.chunk.css.map",
+    "static/css/main.1e9627b4.chunk.css.map": "/dillco/static/css/main.1e9627b4.chunk.css.map",
     "static/media/01JavaSrawana.png": "/dillco/static/media/01JavaSrawana.10089aaa.png",
     "static/media/02BaliKamarasa.png": "/dillco/static/media/02BaliKamarasa.ef83766f.png",
     "static/media/03SumateraAndalas.png": "/dillco/static/media/03SumateraAndalas.08331532.png",
