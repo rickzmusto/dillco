@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ad120ad06eb0273b234370a7f90fb03",
+    "revision": "7a8574557a3e0a18ae69ec4fbb3a695d",
     "url": "/dillco/index.html"
   },
   {
-    "revision": "4bb1772e012a96bba287",
-    "url": "/dillco/static/css/main.abc26497.chunk.css"
+    "revision": "6551cef225d0eb1d19ca",
+    "url": "/dillco/static/css/main.8a065e85.chunk.css"
   },
   {
-    "revision": "6a0f1387a84c46e479dd",
-    "url": "/dillco/static/js/2.62427956.chunk.js"
+    "revision": "ad29c5fc5b2e7477aeef",
+    "url": "/dillco/static/js/2.eb0fc2e0.chunk.js"
   },
   {
-    "revision": "4bb1772e012a96bba287",
-    "url": "/dillco/static/js/main.b9a7c032.chunk.js"
+    "revision": "6551cef225d0eb1d19ca",
+    "url": "/dillco/static/js/main.edd29f83.chunk.js"
   },
   {
     "revision": "85b056d2796bd513421e",
@@ -38,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b3810545797e6752b5d42410940e774b",
     "url": "/dillco/static/media/Bali.b3810545.png"
+  },
+  {
+    "revision": "318c588b2ad127a16ca6431ded4aa47a",
+    "url": "/dillco/static/media/DillcoMap.318c588b.jpg"
   },
   {
     "revision": "f9f02ed05aa86534c3842d44cb20d6c4",
