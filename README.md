@@ -2,9 +2,22 @@
 
 A simple portfolio website repo for testing. something you should know
 
-## Version 0.1.6 Update
+## Ver 1.8 Update
+### Changes :
+- Replacing pigeon maps with static one and adding a marker with link to google maps.
+- Minor typography and margin adjustments.
+- Adding a link to email and whatsapp in contact us.
+- Removing twitter icon.
+- Journey image adjustments.
+- Added css for mobile landscape responsivenes
 
-### Dillco Chocolate Website
+
+## Ver 1.7 Update
+### Changes :
+- Added Lazy loading background and images
+- added a component for making lazy loading transition
+
+## Version 0.1.6 Update
 
 #### Content Changes :
 - Added support for responsive font.
