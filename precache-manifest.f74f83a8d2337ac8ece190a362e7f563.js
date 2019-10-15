@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "67516e9b1683798cc218cbdb6e9f0d4c",
+    "revision": "829be39fe987d95ab846afb68c02b296",
     "url": "/dillco/index.html"
   },
   {
-    "revision": "ab7811fef91925803b9d",
-    "url": "/dillco/static/css/main.320db207.chunk.css"
+    "revision": "fa9da2732edd345c30db",
+    "url": "/dillco/static/css/main.96bee9d4.chunk.css"
   },
   {
-    "revision": "faf7f46afb9036148f88",
-    "url": "/dillco/static/js/2.2ac78500.chunk.js"
+    "revision": "1cc6a9bc083bc2ef03e3",
+    "url": "/dillco/static/js/2.180162ab.chunk.js"
   },
   {
-    "revision": "ab7811fef91925803b9d",
-    "url": "/dillco/static/js/main.cfcfd664.chunk.js"
+    "revision": "fa9da2732edd345c30db",
+    "url": "/dillco/static/js/main.12b5fca9.chunk.js"
   },
   {
     "revision": "85b056d2796bd513421e",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "412a2ff9afb383ad0c305d672f1d7de6",
     "url": "/dillco/static/media/LogoDillco.412a2ff9.webp"
+  },
+  {
+    "revision": "9f4a2232f36ce2b584650e3eee6fb1d7",
+    "url": "/dillco/static/media/LogoDillcoColor.9f4a2232.webp"
   },
   {
     "revision": "3bd6fe5fc94b4cadd31849274303bdbb",
