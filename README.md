@@ -35,8 +35,6 @@ A simple portfolio website repo for testing.
 Dillco Chocolate Website ver 1.5
 ## Version 0.1.6 Update
 
-### Dillco Chocolate Website
-
 #### Content Changes :
 - Added support for responsive font.
 - Added custom color and opacity to selection background.
