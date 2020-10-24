@@ -1,6 +1,6 @@
 ## Dillco Chocolate Website
 
-A simple portfolio website repo for testing. something you should know
+A simple portfolio website repo for testing.
 
 <a href="http://rickzmusto.github.io/dillco" rel="nofollow">Live Example</a>
 
