@@ -4,11 +4,11 @@ A simple portfolio website repo for testing.
 
 <a href="http://rickzmusto.github.io/dillco" rel="nofollow">Live Example</a>
 
-## ver 1.95
+## ver 2.0
 #### Changes :
 - Big changes to the map on contact us, changed the static image from OSM to stamen, added responsive css and transition to the map, and an update for better visibility on marker and close button
 
-## ver 1.91
+## ver 1.95
 #### Changes :
 - Further update on pre-loader
 
@@ -32,8 +32,7 @@ A simple portfolio website repo for testing.
 - Added Lazy loading background and images
 - added a component for making lazy loading transition
 
-Dillco Chocolate Website ver 1.5
-## Version 0.1.6 Update
+## Ver 1.6 Update
 
 #### Content Changes :
 - Added support for responsive font.
